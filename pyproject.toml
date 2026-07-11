@@ -1,0 +1,10 @@
+[project]
+name = "devmetrics-cli"
+version = "0.1.0"
+description = "CLI tool for tracking developer productivity metrics"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
